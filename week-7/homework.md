@@ -1,1 +1,6 @@
-![](../../../Screenshot 2023-04-04 at 15.40.16.png)![](../../../Screenshot 2023-04-04 at 15.41.22.png)![](../../../Screenshot 2023-04-04 at 15.42.05.png)
+Steps done in this task:
+- Created EC2 instance ec2-said-smajic-webserver,
+- Deployed and tested nodejs app on EC2,
+- Created Security Group that allows inbound traffic to HTTP, SSH and 8008 port,
+- Created Cloudwatch alarm to notify us if billing > 5 USD,
+- Stopped EC2 instance.
