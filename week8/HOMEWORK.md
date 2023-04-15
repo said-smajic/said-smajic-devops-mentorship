@@ -11,7 +11,7 @@ What is done in this task:
 **Link to the app: http://alb-web-server-527642205.us-east-1.elb.amazonaws.com/**
 
 Dijagram:
-![](Images/338892347_1940030742996031_4793954539163219917_n.jpg)
+<img src="Images/338892347_1940030742996031_4793954539163219917_n.jpg">
 Nakon kreiranja ASG:
 ![](Images/Screenshot 2023-04-15 at 13.25.37.png)
 Nakon CPU Stress testa:
