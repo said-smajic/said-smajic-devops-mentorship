@@ -9,5 +9,3 @@ What is done in this task:
   - Dynamic auto scaling if average CPU Utilization > 18%
 
 **Link to the app: http://alb-web-server-527642205.us-east-1.elb.amazonaws.com/**
-
-creenshot 2023-04-15 at 12.40.21.png)![](Images/Screenshot 2023-04-15 at 12.42.05.png)
